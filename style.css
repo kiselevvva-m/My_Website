@@ -101,9 +101,7 @@ td, th {
 
 @media (max-width: 1000px) {
     /*HEADER*/
-    .header_nav {
-        display: none;
-    }
+    
 
     /*MAIN*/
     #main_pg2 {
@@ -192,9 +190,7 @@ td, th {
 
 @media (max-width: 1000px) {
     /*HEADER*/
-    .header_nav {
-        display: none;
-    }
+    
     
     /*MAIN*/
     #main_pg1 {
